@@ -1,0 +1,17 @@
+{
+  "name": "playground-electron",
+  "version": "0.0.1",
+  "authors": [
+    "emanuele.rampichini@gmail.com"
+  ],
+  "description": "Electron Playground",
+  "private": true,
+  "dependencies": {
+    "system.js": "0.16.11",
+    "es6-module-loader": "0.16.6",
+    "traceur-runtime": "0.0.89",
+    "traceur": "0.0.89",
+    "jquery": "~2.1.4",
+    "lodash": "~3.8.0"
+  }
+}
